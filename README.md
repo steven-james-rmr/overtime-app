@@ -15,7 +15,9 @@
 - Needs to be documented if employee did not log overtime
 
 ## UI:
-Bootstrap -> formatting
+- x Bootstrap -> formatting
+- Icons from Font Awesome
+- Update the styles for forms
 
 ## Refactor TODOS:
 - Refactor user association integration test in post_spec
